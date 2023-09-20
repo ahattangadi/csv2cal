@@ -6,7 +6,7 @@ A simple program for Windows to convert CSV files into an iCal calendar with all
 
 ## Screenshots
 
-![Screeenshot of the main application](img\scr1.png)
+![Screeenshot of the main application](img/scr1.png)
 
 ## Installation
 
