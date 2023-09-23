@@ -139,7 +139,7 @@ namespace csv2cal.gui
                 var calendarevent = new CalendarEvent
                 {
                     Start = new CalDateTime(_dateTime),
-                    End = new CalDateTime(_dateTime.AddDays(1)),
+                    End = new CalDateTime(_dateTime.AddHours(Properties.Settings.Default.LengthOfEvents)),
                     Summary = _title,
                 };
 
